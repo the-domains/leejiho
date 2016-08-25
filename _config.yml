@@ -1,0 +1,28 @@
+name: leejiho
+favicon: null
+layout_spectrum: 0.463691140525043
+typography_spectrum: 0.49515698687173426
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.640688996296376
+  lightness: 0.7054381496272981
+  saturation: 0.06252921652048826
+  rhythmicContrast: 0.3441945258527994
+purpose: []
